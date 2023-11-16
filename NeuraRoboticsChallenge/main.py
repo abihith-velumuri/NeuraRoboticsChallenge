@@ -1,8 +1,6 @@
 import cv2
 import numpy as np
 
-# test
-
 # Read the original image
 original_image = cv2.imread('add_image_filepath')
 
